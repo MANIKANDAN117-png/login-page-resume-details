@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>Document</title>
+</head>
+<body>
+    <div class="success">
+        <h1>LOGIN SUCCESSFUL<i class="fa-solid fa-check"></i></h1>
+        <p>Welcome to the see resume page!</p>
+
+    </div>
+    <br>
+    <center>
+        <img src="profile.jpeg.jpeg" width="200" height="200">
+    </center>
+    <div class="internal">
+        <p>MANIKANDAN .T</p>
+        <p>Chennai, Tamil Nadu, India</p>
+        <h2>CAREER SUMMARY</h2>
+        <p></p>Motivated final-year Computer Science/IT student seeking opportunities in Data Analytics, Artificial Intelligence, and Machine Learning. Passionate about data-driven decision making, problem solving, and applying analytical skills to real-world projects.</p>
+        <h2>EDUCATION</h2>
+        <p>Bachelor Degree (Final Year)</p>
+        <p>Anna University Affiliated College</p>
+        <p>Expected Graduation: 2027</p>
+        <h2>TECHNICAL SKILLS</h2>
+        <p></p>Programming: Python, SQL (Basic)</p>
+        <p>Data Analytics: Excel, Tableau, Data Visualization</p>
+        <p>AI/ML: Machine Learning Fundamentals, Artificial Intelligence Concepts</p>
+        <p>Web Technologies: HTML</p>
+        <p>Tools: Google Colab</p>
+        <h2>SOFT SKILLS</h2>
+        <p>Communication, Teamwork, Problem Solving</p>
+        <h2>PROJECTS</h2>
+        <h3>Data Analytics Dashboard Project</h3>
+        <p>- Analyzed datasets and created dashboards for data visualization and insights.</p>
+        <p>- Used Excel/Tableau to present trends and business metrics.</p>
+        <h3>AI/ML Learning Projects</h3>
+        <p></p>- Implemented basic machine learning models and explored AI concepts.</p>
+        <p>- Worked with datasets using Python and Google Colab.</p>
+        <h2>INTERNSHIPS & CERTIFICATIONS</h2>
+        <p>- Data Analytics Internship</p>
+        <p>- AI & Machine Learning Internship</p>
+        <p></p>- Deloitte Data Analytics Job Simulation Certificate</p>
+        <p>- Additional certifications (add as applicable)</p>
+        <h2>ACTIVITIES & ACHIEVEMENTS</h2   >
+        <p>- Participated in technical learning programs and internship projects.</p>
+        <p>- Developed practical skills in data analysis and AI technologies.</p>
+        <p>- Continuously improving analytical and technical expertise.</p>
+
+    </div>
+    <table>
+    
+        <td><h2>CONTACT INFORMATION </h2></td>
+        <tr>
+        <td>Email: manikandan@example.com<br>Phone: +91 9876543210</td></tr>
+        <tr> <td>LinkedIn profile(press logo): <a href="https://www.linkedin.com/in/manikandan-t-9b5a88359?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><i class="fa-brands fa-linkedin"></i></a></td></tr>
+        <tr> <td>Instagram (press logo): <a href="https://www.instagram.com/_vj_mani_kandan_" target="_blank"><i class="fa-brands fa-instagram"></i></a></td></tr>
+    </table>
+
+</body>
+</html>
