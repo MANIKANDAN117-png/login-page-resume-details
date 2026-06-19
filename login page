@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>Document</title>
+</head>
+<body>
+    <div class="header">
+
+        <td>RESUME DETAILS</td>
+    </div>
+    <div class="title">
+        <td>LOGIN PAGE</td><br><hr>
+    </div>
+
+    <div class="input">
+        <td><h3>USERNAME:<i class="fa-solid fa-user"></i> <input type="text" placeholder="username"></h3></td>
+        <td><h3>PASSWORD:<i class="fa-solid fa-lock"></i> <input type="password" placeholder="password"></h3></td><br><hr>     
+        <a href="C:\Users\vjman\Desktop\internship\sucess.html"><button type="button">login</button></a>
+        <button type="button">reset</button>
+
+
+    </div>
+    <div>
+    
+    </div>
+
+
+</body>
+</html>
