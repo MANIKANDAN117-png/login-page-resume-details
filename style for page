@@ -1,0 +1,41 @@
+
+.header{
+         background-color:blue;
+         color:black;
+         font-size: 50px;
+         padding: 10px;
+         text-align: center;
+         align-items: center;
+     }
+ .title
+     {
+          color:blue;
+          font-size: 50px;
+          text-align: center;
+          padding: 10px;
+          align-items: center;
+     }
+.input{
+          text-align: center;
+          align-items: center;
+          padding: 10px;
+          color:black;
+          font-size: 30px;
+      }
+.success{
+         background-color:blue;
+         color:black;
+         font-size: 15px;
+         padding: 10px;
+         text-align: center;
+         align-items: center;
+     }
+.internal{
+         background-color:whitesmoke;
+         color:black;
+         font-size: 15px;
+         padding: 10px;
+         text-align: left;
+         align-items: center;
+     }
+     
